@@ -2,6 +2,9 @@
 
 An interactive data dashboard developed in Microsoft Excel to organize raw data, perform analysis, and present key findings through clear and easy-to-understand visualizations.
 
+## Dashboard Preview
+![Excel Dashboard Preview](Excel_Dashboard.PNG)
+
 ## Project Structure and Features
 
 * **Organized Worksheets:** Structured worksheets for raw data, calculations, analysis, and dashboard components.
