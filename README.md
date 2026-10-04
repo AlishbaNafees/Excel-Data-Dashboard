@@ -2,7 +2,7 @@
 
 An Excel dashboard that ranks 141 sales executives across 8 regions against a fixed target of 500. Four pivot tables and three charts show who is ahead and who is furthest behind, and a region slicer narrows the view to any region you choose.
 
-![Dashboard Preview](Excel_Dashboard.png)
+![Dashboard Preview](Excel_Dashboard.PNG)
 
 ## Data
 
@@ -23,4 +23,4 @@ Combined sales came to 38,945 against a combined target of 70,500, an average hi
 
 ## Using the workbook
 
-Open the file in Excel and enable macros when prompted. Select a region in the slicer to filter the tables and charts, and clear the slicer to return to all 141 executives. The checkbox above each table, backed by a short macro called SlicerConnection, controls whether the slicer applies to that table.
+Open Excel_Project.xlsm in Excel and enable macros when prompted. Select a region in the slicer to filter the tables and charts, and clear the slicer to return to all 141 executives. The checkbox above each table, backed by a short macro called SlicerConnection, controls whether the slicer applies to that table.
