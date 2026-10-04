@@ -2,7 +2,7 @@
 
 An Excel dashboard that ranks 141 sales executives across 8 regions against a fixed target of 500. Four pivot tables and three charts show who is ahead and who is furthest behind, and a region slicer narrows the view to any region you choose.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Excel_Dashboard_.png)
 
 ## Data
 
